@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aziz Ashfak</h1>
-<h3 align="center">A passionate ML/AI aspirant from Bangladesh.</h3>
+<h3 align="center">A passionate ML/AI aspirant and a self-taught learner  from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizashfak&label=Profile%20views&color=0e75b6&style=flat" alt="azizashfak" /> </p>
 
