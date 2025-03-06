@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizashfak" alt="azizashfak" /></a> </p>
 
 - 🔭 I’m currently working on 5 end to end project
--    project-1: [Brain Tumor Detection](https://github.com/AzizAshfak/Brain-Tumor-Detection)
--    project-2: [Face Musk Detection](https://github.com/AzizAshfak/Face-Musk-Detection)
--    project-3: [Thyroid Disease Detection](https://github.com/AzizAshfak/Thyroid-Disease-Prediction)
--    project-4: [Indian-Flight-Price-Prediction](https://github.com/AzizAshfak/Indian-Flight-Price-Prediction)
--    project-5: [Spam-Ham-Detection](https://github.com/AzizAshfak/Spam-Ham-Detection)
+-    project-1: [Brain Tumor Detection](https://github.com/aziz-ashfak/Brain-Tumor-Detection)
+-    project-2: [Face Musk Detection](https://github.com/aziz-ashfak/Face-Musk-Detection)
+-    project-3: [Thyroid Disease Detection](https://github.com/aziz-ashfak/Thyroid-Disease-Prediction)
+-    project-4: [Indian-Flight-Price-Prediction](https://github.com/aziz-ashfak/Indian-Flight-Price-Prediction)
+-    project-5: [Spam-Ham-Detection](https://github.com/aziz-ashfak/Spam-Ham-Detection)
 
   
 - 🌱 I’m currently learning **GANs and Visual Transformer**
