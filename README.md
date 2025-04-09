@@ -12,7 +12,7 @@
 -    project-2: [Thyroid Disease Detection](https://github.com/aziz-ashfak/Thyroid-Disease-Prediction)
 -    project-3: [Spam-Ham-Detection](https://github.com/aziz-ashfak/Spam-Ham-Detection)
 -    project-4: [Brain Tumor Detection](https://github.com/aziz-ashfak/Brain-Tumor-Detection)
--    project-5: [Face Musk Detection](https://github.com/aziz-ashfak/Face-Musk-Detection)
+-    project-5: [Face Mask Detection](https://github.com/aziz-ashfak/Face-Mask-Detection)
 
   
 - 🌱 I’m currently learning **GANs and Visual Transformer**
