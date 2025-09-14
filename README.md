@@ -13,7 +13,7 @@
 -    project-3: [Spam-Ham-Detection](https://github.com/aziz-ashfak/Spam-Ham-Detection)
 -    project-4: [Brain Tumor Detection](https://github.com/aziz-ashfak/Brain-Tumor-Detection)
 -    project-5: [Face Mask Detection](https://github.com/aziz-ashfak/Face-Mask-Detection)
--    Project-6: [ONA Generator with RAG](https://github.com/aziz-ashfak/QNARAG)
+-    Project-6: [QNA Generator with RAG](https://github.com/aziz-ashfak/QNARAG)
 -    Project-7: [Research Paper Analyst](https://github.com/aziz-ashfak/ResearchPaperAnalyst)
   
 - 🌱 I’m currently learning **RAG, Agentic RAG, Multimodal RAG ,AI agent with (crew_ai,langgraph,langflow and n8n) and MCP**
