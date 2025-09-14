@@ -7,25 +7,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziz-ashfak" alt="aziz-ashfak" /></a> </p>
 
-- 🔭 I’m currently working on 5 end to end project
+- 🔭 I’m currently working on 7 end to end project
 -    project-1: [Indian-Flight-Price-Prediction](https://github.com/aziz-ashfak/Indian-Flight-Price-Prediction)
 -    project-2: [Thyroid Disease Detection](https://github.com/aziz-ashfak/Thyroid-Disease-Prediction)
 -    project-3: [Spam-Ham-Detection](https://github.com/aziz-ashfak/Spam-Ham-Detection)
 -    project-4: [Brain Tumor Detection](https://github.com/aziz-ashfak/Brain-Tumor-Detection)
 -    project-5: [Face Mask Detection](https://github.com/aziz-ashfak/Face-Mask-Detection)
-
+-    Project-6: [ONA Generator with RAG](https://github.com/aziz-ashfak/QNARAG)
+-    Project-7: [Research Paper Analyst](https://github.com/aziz-ashfak/ResearchPaperAnalyst)
   
-- 🌱 I’m currently learning **GANs and Visual Transformer**
+- 🌱 I’m currently learning **RAG, Agentic RAG, Multimodal RAG ,AI agent with (crew_ai,langgraph,langflow and n8n) and MCP**
 
-- 💬 Ask me about **Scikit-learn and Tensorflow**
+- 💬 Ask me about **Scikit-learn,Tensorflow,Langchain and Hugging-Face**
 
 - 📫 How to reach me **azizashfak@gmail.com**
 
-- ⚡ Fun fact **I love trolling**
+- ⚡ Fun fact **I love deep thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aziz-ashfak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz-ashfak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aziz-ashfak1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz-ashfak" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/azizashfak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aziz-ashfak" height="30" width="40" /></a>
 </p>
 
