@@ -31,7 +31,13 @@
 
 <hr style="border:none;height:1px;background:linear-gradient(90deg,#021827,#08101a,#021827);margin:20px 0 28px;" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azizashfak&label=Profile%20views&color=38BDF8&style=flat" alt="profile views" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aziz-ashfak&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 
 ## 🔍 Overview
