@@ -205,15 +205,16 @@ Multimodal research co‑pilot for dense papers with exports.
   <img src="https://ghchart.rshah.org/aziz-ashfak" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz-ashfak&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ashfak&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ashfak&theme=dark" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aziz-ashfak?label=Followers&style=social" alt="Followers" />&nbsp;
+  <img src="https://img.shields.io/github/stars/aziz-ashfak?label=Stars&style=social" alt="Stars" />&nbsp;
+  <img src="https://img.shields.io/github/repo-size/aziz-ashfak/Indian-Flight-Price-Prediction?label=Repo%20Size&style=flat-square" alt="Repo Size" />&nbsp;
+  <img src="https://img.shields.io/github/last-commit/aziz-ashfak/Indian-Flight-Price-Prediction?style=flat-square" alt="Last Commit" />
+</p>
 ---
 
 <p align="center">
