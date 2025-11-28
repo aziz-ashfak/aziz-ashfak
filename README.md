@@ -12,7 +12,7 @@
   />
 </p>
 
-<p>
+<p align="center">
           <b>ML/AI Engineer</b> · <b>B.Sc. Statistics @ NSTU</b> · <b>LLMs · RAG · CV · MLOps</b>
         </p>
 
