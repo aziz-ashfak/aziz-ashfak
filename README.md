@@ -231,5 +231,5 @@ Multimodal research co‑pilot for dense papers with exports.
   <a href="https://leetcode.com/azizashfak" target="_blank"><b>LeetCode</b></a>
 </p>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizAshfak&show_icons=true&theme=transparent#gh-dark-mode-only)
 
