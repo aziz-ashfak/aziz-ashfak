@@ -45,16 +45,7 @@ I build **end-to-end AI systems** from raw data → deployment.
 Strong background in **statistics, model evaluation, and pipeline design**.  
 Belief in **clean abstractions, reproducibility, and production-grade systems**.
 
-## 💼 Experience
 
-**AI Engineer — ROYALX LLC (Feb–Sep 2025)**  
-- Built LLM apps (OpenAI, Groq, Gemini) with vector-search & LangChain  
-- Developed multimodal RAG + retrieval pipelines  
-- Fine-tuned transformers; deployed APIs / UIs (FastAPI, Flask, Streamlit)  
-
-**AI Tutor — Ai Devlop (Apr–Aug 2025)**  
-- Mentored 100+ students in ML/DL/LLMs  
-- Built project-based curricula & guided end-to-end deployments  
 
 ## 🧪 Featured Projects
 
