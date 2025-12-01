@@ -93,41 +93,42 @@ Mentored 100+ students, built curricula, and guided end-to-end ML/AI project dep
 ## 🧰 Tools & Stack
 
 <p align="center">
+  <!-- Programming Languages & DB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" />
+
+  <!-- ML/DL Libraries -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="72" />
+  <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" width="100" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" />
-  <!-- Added core DS/ML libraries -->
+
+  <!-- Core DS Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="36" />
-</p>
 
-<p align="center">
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="36" />
-  <img src="https://raw.githubusercontent.com/huggingface/brand/main/hf-logo.svg" width="36" />
-  <img src="https://avatars.githubusercontent.com/u/126733545" width="36" />
-  <img src="https://avatars.githubusercontent.com/u/130722866" width="36" />
-  <img src="https://avatars.githubusercontent.com/u/140176824" width="36" />
-  <img src="https://avatars.githubusercontent.com/u/139685557" width="36" />
-</p>
+  <!-- AI / LLM Frameworks -->
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Llama-00A9E0?style=for-the-badge&logo=llama&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logo=groq&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/LangChain-633BBC?style=for-the-badge&logo=langchain&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF5A00?style=for-the-badge&logo=llamaindex&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" width="120" />
 
-<p align="center">
+  <!-- Web / Deployment -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="100" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="72" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="36" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90" />
-  <img src="https://avatars.githubusercontent.com/u/44036562" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/onnx/onnx-original.svg" width="36" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="36" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" width="100" />
 </p>
 
-
----
 
 ## 🧠 Problem Solving & DSA
 
