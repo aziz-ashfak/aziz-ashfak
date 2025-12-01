@@ -61,26 +61,26 @@ Belief in **clean abstractions, reproducibility, and production-grade systems**.
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <!-- Programming & DB -->
+  <!-- Programming Languages & DB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" />
 
-  <!-- ML/DL -->
+  <!-- ML/DL Libraries -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" />
   <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="72" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" />
 
-  <!-- Data Science Libraries -->
+  <!-- Core DS Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="36" />
 
-  <!-- AI / LLM -->
+  <!-- AI / LLM Frameworks (badges fallback if logo missing) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Hugging_Face_logo.svg" width="36" />
   <img src="https://img.shields.io/badge/Llama-00A9E0?style=for-the-badge&logo=llama&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logo=groq&logoColor=white" width="100" />
@@ -96,6 +96,7 @@ Belief in **clean abstractions, reproducibility, and production-grade systems**.
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" width="100" />
 </p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
