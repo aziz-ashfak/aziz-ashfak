@@ -1,36 +1,30 @@
-<!-- ====================== README: Aziz Ashfak (Premium Soft-Black) ====================== -->
-
-<div style="background:#0d1117; padding:32px; border-radius:22px;">
+<!-- ====================== PREMIUM GITHUB README ====================== -->
 
 <div align="center">
 
-<!-- Premium animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:020617,100:0b1120&text=Aziz%20Ashfak&fontColor=FFD166&fontSize=64&animation=twinkling&stroke=020617&strokeWidth=1" />
+# 👋 Hi, I'm Aziz Ashfak
+### ML/AI Engineer · Researcher · Visual Storyteller
 
-<h3 style="color:#60EFFF;">Engineer · Researcher · Visual Storyteller</h3>
-
-</div>
-
-<!-- Typing title -->
+<!-- Typing Animated Intro -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=60EFFF&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+LLMs+%26+RAG+%7C+Computer+Vision;End-to-end+ML+Pipelines+%7C+APIs+%7C+Agents;From+raw+data+to+production-grade+AI+systems"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&duration=2000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+LLMs+%26+RAG+%7C+Computer+Vision;Full-Stack+AI+Pipelines+%7C+Agents+%7C+APIs;Production-grade+AI+Systems" />
 </p>
 
+<!-- Subtitle -->
 <p align="center">
-  <b>ML/AI Engineer</b> · <b>B.Sc. Statistics @ NSTU</b> · <b>LLMs · RAG · Agents · CV · MLOps</b>
-</p>
-<p align="center">
-  <a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-FBBF24?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-FBBF24?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-38BDF8?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+B.Sc. Statistics @ NSTU · LLMs · RAG · Agents · CV · Generative AI · MLOps
 </p>
 
+<!-- Social Links -->
+<p align="center">
+<a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-22D3EE?style=for-the-badge&logo=kaggle&logoColor=black" /></a>
+<a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-F4C430?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
-
+<hr />
 <hr style="border:none;height:1px;background:linear-gradient(90deg,#021827,#08101a,#021827);margin:20px 0 28px;" />
 
 <!-- Profile views -->
@@ -45,75 +39,58 @@
 
 </div>
 
-
 ## 🔍 Overview
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-0ea5e9?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Background-B.Sc.%20Statistics%20(NSTU)-a855f7?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Location-Noakhali%2C%20Bangladesh-22c55e?style=for-the-badge&labelColor=020617" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLMs%20%7C%20RAG%20%7C%20Agents%20%7C%20Computer%20Vision-f97316?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Cloud-GitHub%20Actions%20%7C%20Render%20%7C%20Vercel-6366f1?style=for-the-badge&labelColor=020617" />
-</p>
-
-- Build **end-to-end ML/AI systems**: from raw data → deployment.  
-- Specialize in **LLM/RAG pipelines, agents, multimodal models, CV, and MLOps**.  
-- Prefer **production-first engineering**, clean abstractions, and reproducibility.  
-
----
+Focused on **LLM engineering, RAG systems, agentic workflows, multimodal AI apps, and production ML**.  
+I build **end-to-end AI systems** from raw data → deployment.  
+Strong background in **statistics, model evaluation, and pipeline design**.  
+Belief in **clean abstractions, reproducibility, and production-grade systems**.
 
 ## 💼 Experience
 
-### **AI Engineer — ROYALX LLC (Feb–Sep 2025)**
-Worked on LLM apps (OpenAI, Groq, Gemini), multimodal RAG, agentic pipelines, fine-tuning transformers, and deploying production APIs/UI with FastAPI, Flask, Streamlit.
+**AI Engineer — ROYALX LLC (Feb–Sep 2025)**  
+- Built LLM apps (OpenAI, Groq, Gemini) with vector-search & LangChain  
+- Developed multimodal RAG + retrieval pipelines  
+- Fine-tuned transformers; deployed APIs / UIs (FastAPI, Flask, Streamlit)  
 
-### **AI Tutor — Ai Devlop (Apr–Aug 2025)**
-Mentored 100+ students, built curricula, and guided end-to-end ML/AI project deployments.
+**AI Tutor — Ai Devlop (Apr–Aug 2025)**  
+- Mentored 100+ students in ML/DL/LLMs  
+- Built project-based curricula & guided end-to-end deployments  
 
----
-
-
-## 🧪 Featured Projects (Portfolio Grid)
+## 🧪 Featured Projects
 
 | Project | Tech | Highlights | Link |
-|---------|------|------------|------|
-| ✈️ Flight Price Prediction | Python · Flask · CI/CD | **99.7% accuracy** · End-to-end ML pipeline | [Repo](https://github.com/aziz-ashfak/Indian-Flight-Price-Prediction) |
-| 🧬 Thyroid Detection | Scikit-learn · FastAPI | Clinical-grade ML model + API | [Repo](https://github.com/aziz-ashfak/Thyroid-Disease-Prediction) |
-| 🧠 Brain Tumor Detection | TensorFlow · ONNX | ResNet152V2 → ONNX · medical imaging | [Repo](https://github.com/aziz-ashfak/Brain-Tumor-Detection) |
-| 😷 Face Mask Detection | YOLO · ONNX | Real-time CV pipeline | [Repo](https://github.com/aziz-ashfak/Face-Mask-Detection) |
-| 📚 QnA Generator (RAG) | LangChain · OpenAI · Vector DB | PDF ingestion → retrieval → LLM answers | [Repo](https://github.com/aziz-ashfak/QNARAG) |
-| 📖 Research Paper Analyst | HuggingFace · Groq · Agents | Multimodal research assistant | [Repo](https://github.com/aziz-ashfak/ResearchPaperAnalyst) |
+|--------|------|------------|------|
+| Flight Price Prediction | Python · Flask · CI/CD | End-to-end ML pipeline | [Repo](https://github.com/aziz-ashfak/Indian-Flight-Price-Prediction) |
+| Thyroid Disease Prediction | Scikit-learn · FastAPI | Clinical-grade ML + API | [Repo](https://github.com/aziz-ashfak/Thyroid-Disease-Prediction) |
+| Brain Tumor Detection | TensorFlow · ONNX | Transfer-learning + ONNX export | [Repo](https://github.com/aziz-ashfak/Brain-Tumor-Detection) |
+| Face Mask Detection | YOLO · ONNX | Real-time CV + deployment | [Repo](https://github.com/aziz-ashfak/Face-Mask-Detection) |
+| QnA RAG System | LangChain · OpenAI | PDF → vector DB → RAG → answers | [Repo](https://github.com/aziz-ashfak/QNARAG) |
+| Research Paper Analyst | Hugging Face · Streamlit · Agents | Multimodal research assistant | [Repo](https://github.com/aziz-ashfak/ResearchPaperAnalyst) |
 
-
----
-
-## 🧰 Tools & Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <!-- Programming Languages & DB -->
+  <!-- Programming & DB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" />
 
-  <!-- ML/DL Libraries -->
+  <!-- ML/DL -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" />
-  <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" width="100" />
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="72" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" />
 
-  <!-- Core DS Libraries -->
+  <!-- Data Science Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="36" />
 
-  <!-- AI / LLM Frameworks -->
-  <img src="https://img.shields.io/badge/Hugging%20Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" width="100" />
+  <!-- AI / LLM -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Hugging_Face_logo.svg" width="36" />
   <img src="https://img.shields.io/badge/Llama-00A9E0?style=for-the-badge&logo=llama&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logo=groq&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/LangChain-633BBC?style=for-the-badge&logo=langchain&logoColor=white" width="100" />
@@ -122,61 +99,26 @@ Mentored 100+ students, built curricula, and guided end-to-end ML/AI project dep
   <img src="https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" width="120" />
 
   <!-- Web / Deployment -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="100" />
+  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="36" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="72" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="36" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" width="100" />
 </p>
 
-
-## 🧠 Problem Solving & DSA
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-22c55e?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/DSA-Arrays%20%7C%20Strings%20%7C%20Trees%20%7C%20Graphs%20%7C%20DP-0ea5e9?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Platforms-LeetCode%20%7C%20Kaggle%20%7C%20GitHub-f97316?style=for-the-badge&labelColor=020617" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/azizashfak">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/azizashfak">
-    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/aziz-ashfak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ashfak&theme=dark&ring=F4C430&fire=F4C430&currStreakLabel=22D3EE" />
+<img src="https://ghchart.rshah.org/22D3EE/aziz-ashfak" />
 </p>
 
+## 📬 Contact / Quick Links
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ashfak&theme=dark" />
+<a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-22D3EE?style=for-the-badge&logo=kaggle&logoColor=black" /></a>
+<a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-F4C430?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aziz-ashfak?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/aziz-ashfak?label=Stars&style=social" />
-  <img src="https://img.shields.io/github/repo-size/aziz-ashfak/Indian-Flight-Price-Prediction?label=Repo%20Size&style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/aziz-ashfak/Indian-Flight-Price-Prediction?style=flat-square" />
-</p>
-
----
-
-<!-- Quick links as badges -->
-<p align="center">
-  <a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-FBBF24?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-FBBF24?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-38BDF8?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
-
-</div> <!-- END SOFT BLACK WRAPPER -->
 
 
