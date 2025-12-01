@@ -78,45 +78,18 @@ Mentored 100+ students, built curricula, and guided end-to-end ML/AI project dep
 
 ---
 
-## 🧪 Featured Projects
 
-<div align="center">
+## 🧪 Featured Projects (Portfolio Grid)
 
-### ✈️ Indian Flight Price Prediction  
-99.7% accuracy · end-to-end ML + Flask + CI/CD  
-🔗 <a href="https://github.com/aziz-ashfak/Indian-Flight-Price-Prediction">Repository</a>
+| Project | Tech | Highlights | Link |
+|---------|------|------------|------|
+| ✈️ Flight Price Prediction | Python · Flask · CI/CD | **99.7% accuracy** · End-to-end ML pipeline | [Repo](https://github.com/aziz-ashfak/Indian-Flight-Price-Prediction) |
+| 🧬 Thyroid Detection | Scikit-learn · FastAPI | Clinical-grade ML model + API | [Repo](https://github.com/aziz-ashfak/Thyroid-Disease-Prediction) |
+| 🧠 Brain Tumor Detection | TensorFlow · ONNX | ResNet152V2 → ONNX · medical imaging | [Repo](https://github.com/aziz-ashfak/Brain-Tumor-Detection) |
+| 😷 Face Mask Detection | YOLO · ONNX | Real-time CV pipeline | [Repo](https://github.com/aziz-ashfak/Face-Mask-Detection) |
+| 📚 QnA Generator (RAG) | LangChain · OpenAI · Vector DB | PDF ingestion → retrieval → LLM answers | [Repo](https://github.com/aziz-ashfak/QNARAG) |
+| 📖 Research Paper Analyst | HuggingFace · Groq · Agents | Multimodal research assistant | [Repo](https://github.com/aziz-ashfak/ResearchPaperAnalyst) |
 
----
-
-### 🧬 Thyroid Disease Detection  
-Clinical-grade ML model + API  
-🔗 <a href="https://github.com/aziz-ashfak/Thyroid-Disease-Prediction">Repository</a>
-
----
-
-### 🧠 Brain Tumor Detection  
-ResNet152V2 → ONNX · medical imaging pipeline  
-🔗 <a href="https://github.com/aziz-ashfak/Brain-Tumor-Detection">Repository</a>
-
----
-
-### 😷 Face Mask Detection  
-Real-time YOLO + ONNX  
-🔗 <a href="https://github.com/aziz-ashfak/Face-Mask-Detection">Repository</a>
-
----
-
-### 📚 QnA Generator (RAG)  
-PDF ingestion → indexing → retrieval → LLM answers  
-🔗 <a href="https://github.com/aziz-ashfak/QNARAG">Repository</a>
-
----
-
-### 📖 Research Paper Analyst  
-Multimodal research assistant with export features  
-🔗 <a href="https://github.com/aziz-ashfak/ResearchPaperAnalyst">Repository</a>
-
-</div>
 
 ---
 
