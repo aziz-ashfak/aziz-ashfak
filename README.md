@@ -7,9 +7,9 @@
 <!-- Premium animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:020617,100:0b1120&text=Aziz%20Ashfak&fontColor=FFD166&fontSize=64&animation=twinkling&stroke=020617&strokeWidth=1" />
 
-</div>
+<h3 style="color:#60EFFF;">Engineer · Researcher · Visual Storyteller</h3>
 
-<br>
+</div>
 
 <!-- Typing title -->
 <p align="center">
@@ -22,17 +22,13 @@
   <b>ML/AI Engineer</b> · <b>B.Sc. Statistics @ NSTU</b> · <b>LLMs · RAG · Agents · CV · MLOps</b>
 </p>
 
-<!-- Important quick links -->
+<!-- Quick links as badges -->
 <p align="center">
-  <strong><a href="mailto:azizashfak@gmail.com" style="color:#FFD166;text-decoration:none;">Email</a></strong>
-  &nbsp;•&nbsp;
-  <strong><a href="https://aziz-ashfak.github.io/profile" target="_blank" style="color:#60EFFF;text-decoration:none;">Portfolio</a></strong>
-  &nbsp;•&nbsp;
-  <strong><a href="https://www.linkedin.com/in/azizashfak" target="_blank" style="color:#FFD166;text-decoration:none;">LinkedIn</a></strong>
-  &nbsp;•&nbsp;
-  <strong><a href="https://www.kaggle.com/azizashfak" target="_blank" style="color:#60EFFF;text-decoration:none;">Kaggle</a></strong>
-  &nbsp;•&nbsp;
-  <strong><a href="https://leetcode.com/azizashfak" target="_blank" style="color:#FFD166;text-decoration:none;">LeetCode</a></strong>
+  <a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-FFD166?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-60EFFF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-FFD166?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-60EFFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-FFD166?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <hr style="border:none;height:1px;background:linear-gradient(90deg,#021827,#08101a,#021827);margin:20px 0 28px;" />
@@ -47,7 +43,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aziz-ashfak&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
 </p>
 
----
+</div>
+
 
 ## 🔍 Overview
 
@@ -104,6 +101,12 @@ Mentored 100+ students, built curricula, and guided end-to-end ML/AI project dep
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" />
   <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="72" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" />
+  <!-- Added core DS/ML libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="36" />
 </p>
 
 <p align="center">
@@ -122,6 +125,7 @@ Mentored 100+ students, built curricula, and guided end-to-end ML/AI project dep
   <img src="https://avatars.githubusercontent.com/u/44036562" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/onnx/onnx-original.svg" width="36" />
 </p>
+
 
 ---
 
@@ -163,12 +167,13 @@ Mentored 100+ students, built curricula, and guided end-to-end ML/AI project dep
 
 ---
 
+<!-- Quick links as badges -->
 <p align="center">
-  <a href="mailto:azizashfak@gmail.com"><b>Email</b></a> •
-  <a href="https://aziz-ashfak.github.io/profile"><b>Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/azizashfak"><b>LinkedIn</b></a> •
-  <a href="https://www.kaggle.com/azizashfak"><b>Kaggle</b></a> •
-  <a href="https://leetcode.com/azizashfak"><b>LeetCode</b></a>
+  <a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-FFD166?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-60EFFF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-FFD166?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-60EFFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-FFD166?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 </div> <!-- END SOFT BLACK WRAPPER -->
