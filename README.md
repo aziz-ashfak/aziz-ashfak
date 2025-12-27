@@ -19,7 +19,7 @@ B.Sc. Statistics @ NSTU · LLMs · RAG · Agents · CV · Generative AI · MLOps
 <p align="center">
 <a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/aziz-ashfak-"><img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 <a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-22D3EE?style=for-the-badge&logo=kaggle&logoColor=black" /></a>
 <a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-F4C430?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
@@ -109,7 +109,7 @@ Belief in **clean abstractions, reproducibility, and production-grade systems**.
 <p align="center">
 <a href="mailto:azizashfak@gmail.com"><img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <a href="https://aziz-ashfak.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/azizashfak"><img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/aziza-shfak-"><img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 <a href="https://www.kaggle.com/azizashfak"><img src="https://img.shields.io/badge/Kaggle-22D3EE?style=for-the-badge&logo=kaggle&logoColor=black" /></a>
 <a href="https://leetcode.com/azizashfak"><img src="https://img.shields.io/badge/LeetCode-F4C430?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
