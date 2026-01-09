@@ -12,7 +12,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-B.Sc. Statistics @ NSTU · LLMs · RAG · Agents · CV · Generative AI · MLOps
+<b>B.Sc. Statistics @ NSTU · LLMs · RAG · Agents · CV · Generative AI · MLOps</b></p>
 </p>
 
 <!-- Social Links -->
